@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  line(mouseX, mouseX * 2, mousey, mouseY * 2);
+  line(mouseX, mouseX * 2, mouseY, mouseY * 2);
 }
 
 function mouseMoved() {
